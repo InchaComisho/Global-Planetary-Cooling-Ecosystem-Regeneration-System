@@ -18,7 +18,7 @@ AI Collaborators
 Copi (Microsoft)
 G (OpenAI ChatGPT)
 Mini (Google Gemini)
-Clus (Anthropic Claude)
+Cruz (Anthropic Claude)
 Real (Perplexity AI)
 
 Release Date: 24 Nov 2025
