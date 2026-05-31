@@ -286,6 +286,20 @@ Desert
 
 ⸻
 
+## Related Repositories
+
+- [The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling) — Core conceptual paper proposing Direct Planetary Cooling as a necessary complementary layer.
+- [Direct-Planetary-Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling) — Foundational overview connecting OBS, OTU, mist cooling, and civilizational redesign.
+- [Global-Direct-Planetary-Cooling-System](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System) — Integrated model connecting ocean cooling, urban microclimate control, and desert regeneration.
+- [Global-Direct-Planetary-Cooling-Architecture](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture) — Deployment-oriented architecture for scaling DPC to regional and global implementation.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
+- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
+- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
+- [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+
+⸻
+
 8. HASHTAGS (GitHub Edition)
 
 #PlanetaryCooling #OceanCooling #UrbanCooling #DesertRestoration 
