@@ -297,6 +297,7 @@ Desert
 - [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
 - [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
 - [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecology link on forest degradation, food scarcity, ecological boundaries, and wildlife displacement.
 
 ⸻
 
