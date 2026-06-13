@@ -8,8 +8,8 @@ This repository presents a technical white paper for an integrated **Global Plan
 
 The system emphasizes modular, reversible, distributed deployment using existing technologies, without chemical dependency or irreversible geoengineering.
 
-**Author:** Master / inchacomusho / InchaComisho  
-**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 **Release Date:** November 24, 2025  
 **License:** Fully Open — free use, modification, reproduction, and commercial use allowed; patents on this work are prohibited; military or ecocidal applications are prohibited.
 
@@ -441,6 +441,14 @@ This concept is released for the regeneration of humanity and ecosystems.
   https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements
 
 ---
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Direct Planetary Cooling - Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown - Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## Author
 
